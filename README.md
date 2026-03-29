@@ -123,10 +123,10 @@ given intervention economics.
 
 The complete 15-part portfolio report including business context, methodology,
 chart explanations, and deployment recommendations is available at:
-[Full Report PDF Link]
+[Full Report PDF Link](https://drive.google.com/file/d/1WgISq0Sl5ZxuDYUO7QlcsczPzLpN4plc/view?usp=drive_link)
 
 ---
 
 ## Contact
 
-Teguh Eka Prahara · prahara.teguh@gmail.com · https://www.linkedin.com/in/prahara89/
+Teguh Eka Prahara · prahara.teguh@gmail.com · [My LinkedIn](https://www.linkedin.com/in/prahara89/)
