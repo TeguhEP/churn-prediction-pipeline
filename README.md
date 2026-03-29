@@ -123,7 +123,7 @@ given intervention economics.
 
 The complete 15-part portfolio report including business context, methodology,
 chart explanations, and deployment recommendations is available at:
-[Full Report PDF Link](https://drive.google.com/file/d/1WgISq0Sl5ZxuDYUO7QlcsczPzLpN4plc/view?usp=drive_link)
+[Full Report PDF Link](https://drive.google.com/file/d/1E-RH2Geww7990f6aBgAOczkrELH5G-7n/view?usp=sharing)
 
 ---
 
